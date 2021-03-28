@@ -12,3 +12,4 @@ pro_spider.py里修改商品ID，保存csv的文件名以及生成词云图对�
 
 participle.py专用于根据csv生成词云图，生成词云图在当前文件夹下
 
+“词云图.png”为示例
