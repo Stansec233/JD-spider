@@ -1,5 +1,7 @@
 # JD-spider
 
+python 3.6.5
+
 ## 安装本项目依赖库
 
 国内镜像源推荐豆瓣源： http://pypi.douban.com/simple/http://pypi.douban.com/simple/ 
