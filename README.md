@@ -4,7 +4,7 @@ python 3.6.5
 
 ## 安装本项目依赖库
 
-国内镜像源推荐豆瓣源： http://pypi.douban.com/simple/http://pypi.douban.com/simple/ 
+国内镜像源推荐豆瓣源： http://pypi.douban.com/simple/
 
 文件夹下 pip install -i 镜像源 -r requirements.txt 
 
